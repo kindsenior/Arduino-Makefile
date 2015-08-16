@@ -52,8 +52,9 @@
 #
 # On Linux, you might prefer:
 #
-#   ARDUINO_DIR   = /usr/share/arduino
+ARDUINO_DIR   = /usr/share/arduino
 #   ARDMK_DIR     = /usr/share/arduino
+ARDMK_DIR     = ~/git/Arduino-Makefile
 #   AVR_TOOLS_DIR = /usr
 #
 # On Windows declare this environmental variables using the windows
