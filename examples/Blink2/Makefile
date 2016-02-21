@@ -1,4 +1,4 @@
-# Arduino Make file. Refer to https://github.com/sudar/Arduino-Makefile
+# for arduino cheap edition made in china
 
 # # BOARD_TAG    = uno
 BOARD_TAG    = mega328
